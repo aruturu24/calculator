@@ -3,6 +3,7 @@ A beautiful calculator in the web
 
 ## Preview
 You can test [here](https://calculator-aruturu24.vercel.app/)
+<br/>
 <img src="./readme.jpg" width="680px" >
 
 ## Made with
